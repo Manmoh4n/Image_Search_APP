@@ -1,0 +1,4 @@
+In this project we use    https://unsplash.com/ for fetching real time photos with API .
+We use Google fonts for Styling the text.
+The code is written in HTML , CSS and JavaScript and uses NodeJS to run on server side.
+
