@@ -1,6 +1,6 @@
 Visit on my Project : https://gleeful-dragon-d72fd6.netlify.app
 
-Here I build a Real Time Image Search Application using HTML , CSS and JavaScript. I also use an API for fetching real time image .
+Here I build a Real Time Image Search Application using HTML , CSS and JavaScript. I am using Unplash API for fetching real time image .
 
 
 In which user can search any Image only with input name of the related image.
